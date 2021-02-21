@@ -218,6 +218,16 @@ var stations = {
             logo: "stations/images-europe/austria/Antenne Vorarberg.png",
             url: "https://webradio.antennevorarlberg.at/live"
         },
+        {
+            name: "Arabella Hot",
+            logo: "stations/images-europe/austria/arabella-hot-flag.png",
+            url: "https://arabellahot.stream.arabella.at/arabellahot?aw_0_req.gdpr=true"
+        },
+        {
+            name: "Arabella Wien",
+            logo: "stations/images-europe/austria/arabella-wien-flag.png",
+            url: "https://arabellawien.stream.arabella.at/arabellavie?aw_0_req.gdpr=true"
+        },
     ],
     "basque": [
         {
