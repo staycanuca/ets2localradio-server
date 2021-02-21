@@ -198,6 +198,11 @@ var stations = {
             logo: "stations/images-europe/austria/Welle 1.png",
             url: "https://live.welle1.at:18128/stream"
         },
+        {
+            name: "Antenne Kärnten",
+            logo: "stations/images-europe/austria/logo_kaernten.png",
+            url: "https://live.antenne.at/ak"
+        },
     ],
     "basque": [
         {
