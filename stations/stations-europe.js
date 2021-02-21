@@ -189,6 +189,11 @@ var stations = {
             url: "https://radio886.fluidstream.eu/886_live.mp3"
         },
         {
+            name: "radio 98.3 Superfly",
+            logo: "stations/images-europe/austria/98.3 Superfly.png",
+            url: "https://stream01.superfly.fm/live"
+        },
+        {
             name: "WELLE 1",
             logo: "stations/images-europe/austria/Welle 1.png",
             url: "https://live.welle1.at:18128/stream"
