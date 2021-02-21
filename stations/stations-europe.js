@@ -208,6 +208,11 @@ var stations = {
             logo: "stations/images-europe/austria/logo_salzburg.jpg",
             url: "https://server8773.streamplus.de/;"
         },
+        {
+            name: "Antenne Steiermark",
+            logo: "stations/images-europe/austria/logo_steiermark.png",
+            url: "https://live.antenne.at/as;"
+        },
     ],
     "basque": [
         {
