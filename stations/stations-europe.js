@@ -333,7 +333,7 @@ var stations = {
         {
             name: "Альфа Радио",
             logo: "stations/images-europe/belarus/Альфа Радио.jpg",
-            url: "http://listen.alpha.by:8009/;" Сервер не работает
+            url: "http://listen.alpha.by:8009/;" تعطل الخادم
         },
         */
     ],
