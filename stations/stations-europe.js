@@ -213,6 +213,11 @@ var stations = {
             logo: "stations/images-europe/austria/logo_steiermark.png",
             url: "https://live.antenne.at/as;"
         },
+        {
+            name: "Antenne Vorarberg",
+            logo: "stations/images-europe/austria/Antenne Vorarberg.png",
+            url: "https://webradio.antennevorarlberg.at/live"
+        },
     ],
     "basque": [
         {
