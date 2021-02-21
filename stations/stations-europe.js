@@ -329,6 +329,13 @@ var stations = {
             logo: "stations/images-europe/belarus/Пилот FM.png",
             url: "https://pf.volna.top/PilotBy48"
         },
+        /*
+        {
+            name: "Альфа Радио",
+            logo: "stations/images-europe/belarus/Альфа Радио.jpg",
+            url: "http://listen.alpha.by:8009/;" Serveur HS
+        },
+        */
     ],
     "belgium-nl": [
         {
