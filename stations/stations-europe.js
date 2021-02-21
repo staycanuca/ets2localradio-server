@@ -34,6 +34,11 @@ var stations = {
             url: "http://cp11.shoutcheap.com:8037/;?1602675279871"
         },
         {
+            name: "AlpoRadio",
+            logo: "stations/images-europe/albania/Alpo Radio.png",
+            url: "http://62.210.24.124:8379/;stream.mp3;"
+        },
+        {
             name: "Alsion Radio",
             logo: "stations/images-europe/albania/Alsion Radio.png",
             url: "http://109.169.26.216:8018/;"
