@@ -332,10 +332,15 @@ var stations = {
         /*
         {
             name: "Альфа Радио",
-            logo: "stations/images-europe/belarus/Альфа Радио.jpg",
-            url: "http://listen.alpha.by:8009/;" تعطل الخادم
+            logo: "stations/images-europe/austria/Альфа Радио.jpg",
+            url: "http://listen.alpha.by:8009/;"  تعطل الخادم
         },
         */
+        {
+            name: "Авторадио",
+            logo: "stations/images-europe/belarus/hdr-logo.png",
+            url: "http://live.humorfm.by:8000/avtoradio"
+        },
     ],
     "belgium-nl": [
         {
